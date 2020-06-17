@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1590874835 source:f:\c programming\fourth\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1590874417 source:f:\c programming\fourth\add_substract.c
+	<stdio.h>
+	<stdlib.h>
+
